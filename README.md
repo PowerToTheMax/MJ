@@ -1,1 +1,3 @@
 # MJ
+
+console.writeline("hello")
